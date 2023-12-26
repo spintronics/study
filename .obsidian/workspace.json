@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "b19bbe994d0555fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa2cc09f805b9471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711e4e442c869677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dive Into Design Patterns/notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be43a0b19d874f73",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bec6b662bfb024c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d1ad4130ff66a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1cb36930fa8abfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78ef82d2f9c9027f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "949d4d387bdac6e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfda8845c0d80bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735fefdc2fa27e82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Dive Into Design Patterns/notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e785d8fa527c6bdd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/Dive Into Design Patterns/notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9eb33de65136429d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a453b51fea424032",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/Dive Into Design Patterns/notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "711e4e442c869677",
+  "lastOpenFiles": [
+    "Books/Terraform up and running/Notes.md",
+    "Books/Architecting for scale.md",
+    "Certificates/AWS Solutions Architect - Associate/Services.md",
+    "Certificates/AWS Solutions Architect - Associate/Introduction.md",
+    "Books/Dive Into Design Patterns/notes.md",
+    "Books/Terraform up and running",
+    "Certificates/AWS Solutions Architect - Associate/Untitled",
+    "Certificates/AWS Solutions Architect - Associate",
+    "Untitled",
+    "Certificates",
+    "Pasted image 20231222140601.png.md",
+    "Books/Dive Into Design Patterns/oop-relationships.png",
+    "Books/Dive Into Design Patterns/Pasted image 20231222140601.png",
+    "Books/Dive Into Design Patterns/oop.cs",
+    "Books/Dive Into Design Patterns",
+    "Books/Languages/C-Sharp",
+    "Books/Languages"
+  ]
+}
